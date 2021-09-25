@@ -1,7 +1,7 @@
 <div align="center">Fala, dev. Prazer! Sou o Adryel Simon, 
  mas pode chamar de alchemist, ou... como preferir.
  <br>
- <br><br><br>
+ <br>:)<br><br>
 </div>
 
 <div align="center">
