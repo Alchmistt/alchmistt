@@ -7,14 +7,14 @@
  <div align="center"> 
  <a href="https://linkedin.com/in/adryelsimon" target="_blank"> 
   <img height="21em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><br>
-</div>
+</div><br>
 
   <div align="center">
   <a href="https://github.com/alchmistt">
   <img height="144em" src="https://github-readme-stats.vercel.app/api?username=alchmistt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br><br>
   <img height="144em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alchmistt&layout=compact&langs_count=7&theme=dracula"/>
   </div>
-  
+  <br>
       
  <div align="center"> 
  <a href="https://github.com/alchmistt"> <img height=21em src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
