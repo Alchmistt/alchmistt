@@ -1,4 +1,4 @@
-<div align="center">Fala, dev. Prazer! Sou o Adryel Simon.
+<div align="center">.::::Fala, dev. Prazer! Sou o Adryel Simon::::.
  <br>
  <br>🦈🦈🦈<br><br>
 </div>
