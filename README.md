@@ -6,8 +6,8 @@
  
  <div align="center"> 
  <a href="https://linkedin.com/in/adryelsimon" target="_blank"> 
-  <img height="144em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</div>
+  <img height="21em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div><br><br>
 
   <div align="center">
   <a href="https://github.com/alchmistt">
