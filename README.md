@@ -1,4 +1,4 @@
-<div align="center"><h6> 🦈🔺🦈<br><br>Fala, dev. Prazer! Sou o Adryel Simon. <br> Seja bem-vindo.<br></h6>
+<div align="center"><h6> 🦈🔺🦈<br><br>Fala, dev. Sou o Adryel Simon e é um prazer ter você aqui! <br> Seja bem-vindo.<br></h6>
  </div>
 
  <div align="center"> 
