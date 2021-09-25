@@ -1,4 +1,4 @@
-<div align="center"><h6> .<br><br>
+<div align="center"><h6><br><br>
  <br>Fala, dev! 
 <br>Me chamo Adryel Simon e é um prazer ter você aqui! 
  <br><br> Seja bem-vindo.<br></h6>
@@ -22,4 +22,4 @@
  <a href="https://github.com/alchmistt"> <img height=21em src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
  <br>
  <br>
- <h6>.</h6> </div> 
+ </div> 
