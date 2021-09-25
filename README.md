@@ -1,7 +1,6 @@
 <div align="center"><h6> 🦈🔺🦈<br><br>.:::: Fala, dev. Prazer! ::::. <br> .:::: Sou o Adryel Simon ::::. <br> .:::: Seja bem-vindo ::::.</h6>
  
- <br>🔺🔺🔺
- <br>
+  <br>
 </div>
 
  <div align="center"> 
