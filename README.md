@@ -1,4 +1,4 @@
-<div align="center">Fala, dev. Prazer! Sou o Adryel Simon, mas pode chamar de alchemist, ou... de Dry.  🤟🤟
+<div align="center">Fala, dev. Prazer! Sou o Adryel Simon, mas pode chamar de alchemist, ou... como preferir.  👀🤟
  <br>
  <br>
 </div>
