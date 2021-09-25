@@ -1,7 +1,5 @@
 <div align="center"><h6> 🦈🔺🦈<br><br>.:::: Fala, dev. Prazer! ::::. <br> .:::: Sou o Adryel Simon ::::. <br> .:::: Seja bem-vindo ::::.</h6>
- 
-  <br>
-</div>
+ </div>
 
  <div align="center"> 
  <a href="https://github.com/alchmistt"> <img height=21em src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
