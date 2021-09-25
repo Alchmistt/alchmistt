@@ -1,4 +1,4 @@
-### Hi there 👋
+Fala, dev. Prazer! Sou o Adryel Simon, mas pode chamar de alchemist, ou... de Dry. 👋
 
 <div>
   <a href="https://github.com/alchmistt">
