@@ -3,6 +3,10 @@
 <br>Me chamo Adryel Simon e é um prazer ter você aqui! 
  <br><br> Seja bem-vindo.<br><br></h6>
  </div>
+ 
+ <div align="center"> 
+ <a href="https://linkedin.com/in/adryelsimon" img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
 
   <div align="center">
   <a href="https://github.com/alchmistt">
