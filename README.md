@@ -10,7 +10,7 @@
  
 <div align="center" style="border-radius: 50%"> 
  <a href="https://linkedin.com/in/adryelsimon" target="_blank"> 
-  <img height="333em" src="https://media.giphy.com/media/3tyiyrJf9BbY4/giphy.gif"/> <br><br><br>
+  <img height="222em" src="https://media4.giphy.com/media/kKefeMw8rbMVq/giphy.gif?cid=790b76115f547afe486d8151dacbb25ac9458b88f36c9480&rid=giphy.gif&ct=g"/> <br><br><br>
 </div>
   
 <div align="center"> 
