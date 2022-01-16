@@ -10,7 +10,7 @@
  
 <div align="center" style="border-radius: 50%"> 
  <a href="https://linkedin.com/in/adryelsimon" target="_blank"> 
-  <img height="222em" src="https://imagehost9.online-image-editor.com/oie_upload/images/1615535e1C442Fb05/2rER0kBwNp1a.gif"/> <br><br><br>
+  <img height="222em" src="https://imagehost9.online-image-editor.com/oie_upload/images/1615837x380j4/16251257C2k9NLb.gif"/> <br><br><br>
 </div>
   
 <div align="center"> 
