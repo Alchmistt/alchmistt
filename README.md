@@ -4,14 +4,14 @@
  <h6>
   <br><br><br><br>
    W&nbsp&nbspe&nbsp&nbspl&nbsp&nbspc&nbsp&nbspo&nbsp&nbspm&nbsp&nbspe
-  <br><br>
+  <br><br><br>
  </h6>
 </div>
  
 <div align="center" style="border-radius: 50%"> 
  <a href="https://linkedin.com/in/adryelsimon" target="_blank"> 
-  <img height="154em" src="https://media3.giphy.com/media/g79am6uuZJKSc/giphy.gif?cid=790b76115f2dc291cb9432b1aec28e588acf04950bb591d5&rid=giphy.gif&ct=g"/><br>
-<br>
+  <img height="154em" src="https://media3.giphy.com/media/g79am6uuZJKSc/giphy.gif?cid=790b76115f2dc291cb9432b1aec28e588acf04950bb591d5&rid=giphy.gif&ct=g"/><br><br><br>
+
 </div>
   
 <div align="center"> 
