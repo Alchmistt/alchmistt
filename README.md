@@ -1,21 +1,23 @@
+### Hello 👋
+
+My name is Adryel Simon and I am a developer from São Paulo, SP - Brazil.
+
+### 📫 How to reach me
+
+[![](https://img.shields.io/badge/-adryel-444?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/adryel)
+[![](https://img.shields.io/badge/-adryelsimon-444?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adryelsimon)
+
+### ⚡ My tech stack
+
+![](https://img.shields.io/badge/-JavaScript-444?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/-React.Js-444?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/-Node.Js-444?style=for-the-badge&logo=nodejs)
+![](https://img.shields.io/badge/-express-444?style=for-the-badge&logo=express)
+![](https://img.shields.io/badge/-MySQL-444?style=for-the-badge&logo=mysql)
+![](https://img.shields.io/badge/-postgreesql-444?style=for-the-badge&logo=postgresql)
+![](https://img.shields.io/badge/Wordpress-444?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
-<div align="center">
- <h5>
-  <br><br><br><br>
-   W&nbsp&nbspe&nbsp&nbspl&nbsp&nbspc&nbsp&nbspo&nbsp&nbspm&nbsp&nbspe
-  </h5><br>
- </div>
- 
-<div align="center" style="border-radius: 50%"> 
- <a href="https://linkedin.com/in/adryelsimon" target="_blank"> 
-  <img height="154em" src="https://media3.giphy.com/media/g79am6uuZJKSc/giphy.gif?cid=790b76115f2dc291cb9432b1aec28e588acf04950bb591d5&rid=giphy.gif&ct=g"/><br>
-</div>
-<div align="center">
-<h6> I&nbsp'&nbspm&nbsp A&nbspd&nbspr&nbspy&nbspe&nbspl&nbsp S&nbspi&nbspm&nbspo&nbspn,
-<br><br>
-F&nbspr&nbspo&nbspn&nbspt&nbsp-&nbspe&nbspn&nbspd&nbsp &nbspD&nbspe&nbspv&nbspe&nbspl&nbspo&nbspp&nbspe&nbspr <br><br></h6>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-     <a href="https://linkedin.com/in/adryelsimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscpd" height="30" width="30" /></a>
-      &nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp 
- </div>
+### My stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
