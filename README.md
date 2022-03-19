@@ -17,7 +17,7 @@ My name is Adryel Simon and I am a developer from São Paulo, SP - Brazil.
 ![](https://img.shields.io/badge/-postgreesql-444?style=for-the-badge&logo=postgresql)
 ![](https://img.shields.io/badge/Wordpress-444?style=for-the-badge&logo=wordpress&logoColor=white)
 
-<br>
+
 ### My stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchemist-developer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
