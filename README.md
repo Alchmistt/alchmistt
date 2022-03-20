@@ -1,6 +1,8 @@
-### Hello 👋
+### Hello 👋🏻
 
-My name is Adryel Simon and I am a developer from São Paulo, SP - Brazil.
+My name is Adryel Simon and I'm from São Paulo, Brazil. 🇧🇷
+<br>
+I'm a developer fascinated by the impact of colors on the client-side. 👁
 <br>
 ### 📫 How to reach me
 
