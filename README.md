@@ -2,7 +2,7 @@
 
 My name is Adryel Simon and I'm from São Paulo, Brazil. 🇧🇷
 <br>
-I'm a developer fascinated by the impact of colors on the client-side. 👁
+I'm a developer fascinated by the impact of colors on the client-side. 👁👁
 <br>
 ### 📫 How to reach me
 
