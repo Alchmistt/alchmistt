@@ -17,8 +17,8 @@ I'm a developer fascinated by the impact of colors on the client-side. 👁👁
 ![](https://img.shields.io/badge/-JavaScript-444?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/-MySQL-444?style=for-the-badge&logo=mysql)
 ![](https://img.shields.io/badge/-postgresql-444?style=for-the-badge&logo=postgresql)
-![](https://img.shields.io/badge/-figma-444?style=for-the-badge&logo=figma)
 ![](https://img.shields.io/badge/-Wordpress-444?style=for-the-badge&logo=wordpress&logoColor=white)
+![](https://img.shields.io/badge/-figma-444?style=for-the-badge&logo=figma)
 
 ### My stats
 
