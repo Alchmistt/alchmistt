@@ -5,7 +5,7 @@ My name is <b>Adryel Simon</b> and I'm from São Paulo, Brazil. 🇧🇷
 I'm a developer fascinated by the impact of colors on the client-side. 👁👁
 <br>
 
-<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width="500" height="350">
+<img src="https://64.media.tumblr.com/51a65223a5a8f5401181240361fe6478/tumblr_pwlwetBM5u1sqtzdpo1_1280.gifv" width="500" height="250">
 
 
 ### 📫 How to reach me
