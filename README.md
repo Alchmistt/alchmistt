@@ -4,6 +4,10 @@ My name is <b>Adryel Simon</b> and I'm from São Paulo, Brazil. 🇧🇷
 <br>
 I'm a developer fascinated by the impact of colors on the client-side. 👁👁
 <br>
+
+<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width="500" height="350">
+
+
 ### 📫 How to reach me
 
 [![](https://img.shields.io/badge/-adryel-444?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/adryel)
