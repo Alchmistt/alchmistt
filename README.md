@@ -15,7 +15,7 @@ I'm a developer fascinated by the impact of colors on the client-side. 👁👁
 [![](https://img.shields.io/badge/-adryelsmn-444?style=for-the-badge&logo=instagram)](https://instagram.com/adryelsmn)
 [![](https://img.shields.io/badge/-alchemist-444?style=for-the-badge&logo=vercel)](https://alchemistdeveloper.vercel.app/)
 
-<br>
+
 ### ⚡ My tech stack
 
 ![](https://img.shields.io/badge/-Node.Js-444?style=for-the-badge&logo=node.js)
@@ -27,6 +27,6 @@ I'm a developer fascinated by the impact of colors on the client-side. 👁👁
 ![](https://img.shields.io/badge/-Wordpress-444?style=for-the-badge&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/-figma-444?style=for-the-badge&logo=figma)
 
-### My stats
+### 🧠 My stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchemist-developer&layout=compact&theme=)](https://github.com/alchemist-developer/github-readme-stats)
