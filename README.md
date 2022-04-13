@@ -13,7 +13,7 @@ I'm a developer fascinated by the impact of colors on the client-side. 👁👁
 [![](https://img.shields.io/badge/-adryel-444?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/adryel)
 [![](https://img.shields.io/badge/-adryelsimon-444?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adryelsimon)
 [![](https://img.shields.io/badge/-adryelsmn-444?style=for-the-badge&logo=instagram)](https://instagram.com/adryelsmn)
-[![](https://img.shields.io/badge/-alchemist-444?style=for-the-badge&logo=vercel)](https://alchemistdeveloper.vercel.app/)
+[![](https://img.shields.io/badge/-alchemist-444?style=for-the-badge&logo=vercel)](https://alchemistic.tech/)
 
 
 ### ⚡ My tech stack
