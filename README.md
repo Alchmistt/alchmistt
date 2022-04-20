@@ -29,4 +29,4 @@ I'm a developer fascinated by the impact of colors on the client-side. 👁👁
 
 ### 🧠 My stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchemist-developer&layout=compact&theme=)](https://github.com/alchemist-developer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchemist-developer&layout=compact&theme=nord&bg_color=0D1017&hide_border=true")](https://github.com/alchemist-developer/github-readme-stats)
