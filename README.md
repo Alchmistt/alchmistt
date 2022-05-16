@@ -9,23 +9,23 @@ I'm a developer fascinated by the impact of colors on the client-side. 👁👁
 
 ### 📧📧 How to reach me 
 
-[![](https://img.shields.io/badge/-adryel-000?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/adryel)
-[![](https://img.shields.io/badge/-adryelsimon-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adryelsimon)
-[![](https://img.shields.io/badge/-adryelsmn-000?style=for-the-badge&logo=instagram)](https://instagram.com/adryelsmn)
-[![](https://img.shields.io/badge/-alchemist-000?style=for-the-badge&logo=vercel)](https://alchemistic.tech/)
+[![](https://img.shields.io/badge/-adryel-111?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/adryel)
+[![](https://img.shields.io/badge/-adryelsimon-111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adryelsimon)
+[![](https://img.shields.io/badge/-adryelsmn-111?style=for-the-badge&logo=instagram)](https://instagram.com/adryelsmn)
+[![](https://img.shields.io/badge/-alchemist-111?style=for-the-badge&logo=vercel)](https://alchemistic.tech/)
 
 
 ### ⚡⚡ My tech stack 
 
-![](https://img.shields.io/badge/-Node.Js-000?style=for-the-badge&logo=node.js)
-![](https://img.shields.io/badge/-express.Js-000?style=for-the-badge&logo=express)
-![](https://img.shields.io/badge/-React.Js-000?style=for-the-badge&logo=react)
-![](https://img.shields.io/badge/-typescript-000?style=for-the-badge&logo=typescript)
+![](https://img.shields.io/badge/-Node.Js-111?style=for-the-badge&logo=node.js)
+![](https://img.shields.io/badge/-express.Js-111?style=for-the-badge&logo=express)
+![](https://img.shields.io/badge/-React.Js-111?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/-typescript-111?style=for-the-badge&logo=typescript)
 <br/>
-![](https://img.shields.io/badge/-bootstrap-000?style=for-the-badge&logo=bootstrap)
-![](https://img.shields.io/badge/-sass-000?style=for-the-badge&logo=sass)
-![](https://img.shields.io/badge/-sequelize-000?style=for-the-badge&logo=sequelize&logoColor=sequelize)
-![](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![](https://img.shields.io/badge/-bootstrap-111?style=for-the-badge&logo=bootstrap)
+![](https://img.shields.io/badge/-sass-111?style=for-the-badge&logo=sass)
+![](https://img.shields.io/badge/-sequelize-111?style=for-the-badge&logo=sequelize&logoColor=sequelize)
+![](https://img.shields.io/badge/-MySQL-111?style=for-the-badge&logo=mysql)
 
 ### 🧠🧠 My stats 
 
