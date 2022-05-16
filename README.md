@@ -7,7 +7,7 @@ I'm a developer fascinated by the impact of colors on the client-side. 👁👁
 
 <img src="https://64.media.tumblr.com/51a65223a5a8f5401181240361fe6478/tumblr_pwlwetBM5u1sqtzdpo1_1280.gifv" width="500" height="250">
 
-### 📧📧 How to reach me 
+### 📧 How to reach me 
 
 [![](https://img.shields.io/badge/-adryel-111?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/adryel)
 [![](https://img.shields.io/badge/-adryelsimon-111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adryelsimon)
@@ -15,7 +15,7 @@ I'm a developer fascinated by the impact of colors on the client-side. 👁👁
 [![](https://img.shields.io/badge/-alchemist-111?style=for-the-badge&logo=vercel)](https://alchemistic.tech/)
 
 
-### ⚡⚡ My tech stack 
+### ⚡ My tech stack 
 
 ![](https://img.shields.io/badge/-Node.Js-111?style=for-the-badge&logo=node.js)
 ![](https://img.shields.io/badge/-express.Js-111?style=for-the-badge&logo=express)
@@ -27,6 +27,6 @@ I'm a developer fascinated by the impact of colors on the client-side. 👁👁
 ![](https://img.shields.io/badge/-sequelize-111?style=for-the-badge&logo=sequelize&logoColor=sequelize)
 ![](https://img.shields.io/badge/-MySQL-111?style=for-the-badge&logo=mysql)
 
-### 🧠🧠 My stats 
+### 🧠 My stats 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchemist-developer&layout=compact&theme=nord&bg_color=0D1017&hide_border=true")](https://github.com/alchemist-developer/github-readme-stats)
