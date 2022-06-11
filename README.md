@@ -17,15 +17,15 @@ I'm a developer fascinated by the impact of colors on the client-side. 👁👁
 
 ### ⚡ My tech stack 
 
+![](https://img.shields.io/badge/-Typescript-111?style=for-the-badge&logo=typescript)
 ![](https://img.shields.io/badge/-Node.Js-111?style=for-the-badge&logo=node.js)
-![](https://img.shields.io/badge/-express.Js-111?style=for-the-badge&logo=express)
 ![](https://img.shields.io/badge/-React.Js-111?style=for-the-badge&logo=react)
-![](https://img.shields.io/badge/-typescript-111?style=for-the-badge&logo=typescript)
+![](https://img.shields.io/badge/-Redux-111?style=for-the-badge&logo=Redux)
 <br/>
-![](https://img.shields.io/badge/-bootstrap-111?style=for-the-badge&logo=bootstrap)
 ![](https://img.shields.io/badge/-sass-111?style=for-the-badge&logo=sass)
-![](https://img.shields.io/badge/-sequelize-111?style=for-the-badge&logo=sequelize&logoColor=sequelize)
-![](https://img.shields.io/badge/-MySQL-111?style=for-the-badge&logo=mysql)
+![](https://img.shields.io/badge/-StyledComponents-111?style=for-the-badge&logo=styled-components&logoColor=styled-components)
+![](https://img.shields.io/badge/-bootstrap-111?style=for-the-badge&logo=bootstrap)
+
 
 ### 🧠 My stats 
 
