@@ -1,32 +1,85 @@
-### Hello 👋🏻
+<table width="800px">
+<thead>
+<tr>
+<th colspan="2" align='left'>
 
-My name is <b>Adryel Simon</b> and I'm from São Paulo, Brazil. 🇧🇷
-<br>
-I'm a developer fascinated by the impact of colors on the client-side. 👁👁
-<br>
+<span align="center">
 
-<img src="https://64.media.tumblr.com/51a65223a5a8f5401181240361fe6478/tumblr_pwlwetBM5u1sqtzdpo1_1280.gifv" width="500" height="250">
+## About Me
 
-### 📧 How to reach me 
+</span>
 
-[![](https://img.shields.io/badge/-adryel-111?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/adryel)
-[![](https://img.shields.io/badge/-adryelsimon-111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adryelsimon)
-[![](https://img.shields.io/badge/-adryelsmn-111?style=for-the-badge&logo=instagram)](https://instagram.com/adryelsmn)
-[![](https://img.shields.io/badge/-alchemist-111?style=for-the-badge&logo=vercel)](https://alchemistic.tech/)
+- 👋 My name is Adryel Simon and I'm a front-end developer from São Paulo, Brazil. 
+- 📫 Contact me at *[alchdev@outlook.com](mailto:alchdev@outlook.com)* or <a href="https://flowcv.me/simon">click here</a>.
 
+<p align='center'>
+<a href='https://html.com/'>
+<img src="https://skillicons.dev/icons?i=html"/>
+</a>
+<a href='https://www.w3.org/Style/CSS/Overview.en.html'>
+<img src="https://skillicons.dev/icons?i=css"/>
+</a>
+<a href='https://www.javascript.com/'>
+<img src="https://skillicons.dev/icons?i=js"/>
+</a>
+<a href='https://www.typescriptlang.org/'>
+<img src="https://skillicons.dev/icons?i=ts"/>
+</a>
+<a href='https://nodejs.org/en/'>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+</a>
+<a href='https://reactjs.org/'>
+<img src="https://skillicons.dev/icons?i=react"/>
+</a>
+<a href='https://vitejs.dev/'>
+<img src="https://skillicons.dev/icons?i=vite"/>
+</a>
+<a href='https://tailwindui.com/'>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+</a>
+<a href='https://styled-components.com/'>
+<img src="https://skillicons.dev/icons?i=styledcomponents"/>
+</a>
 
-### ⚡ My tech stack 
+  
+</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td  valign='top' align="center" width="50%">
 
-![](https://img.shields.io/badge/-Typescript-111?style=for-the-badge&logo=typescript)
-![](https://img.shields.io/badge/-Node.Js-111?style=for-the-badge&logo=node.js)
-![](https://img.shields.io/badge/-React.Js-111?style=for-the-badge&logo=react)
-![](https://img.shields.io/badge/-Redux-111?style=for-the-badge&logo=Redux)
-<br/>
-![](https://img.shields.io/badge/-sass-111?style=for-the-badge&logo=sass)
-![](https://img.shields.io/badge/-StyledComponents-111?style=for-the-badge&logo=styled-components&logoColor=styled-components)
-![](https://img.shields.io/badge/-bootstrap-111?style=for-the-badge&logo=bootstrap)
+## Interested in Learning
 
+<a href='https://nextjs.org/'>
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+</a>
+<a href='https://firebase.google.com/'>
+<img src="https://skillicons.dev/icons?i=firebase"/>
+</a>
+<a href='https://graphql.org/'>
+<img src="https://skillicons.dev/icons?i=graphql"/>
+</a>
+<a href='https://www.figma.com/'>
+<img src="https://skillicons.dev/icons?i=figma"/>
+</a>
+</td>
+<td rowspan="2" valign='top' align="center" width="50%">
 
-### 🧠 My stats 
+## Dev Cards
+ 
+<a href="https://app.daily.dev/alchemistdev"><img src="https://api.daily.dev/devcards/d49046863a4e4c3383dd2e5033dc7f1f.png?r=de0" width="300" alt="Adryel Simon's Dev Card"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchemist-developer&layout=compact&theme=nord&bg_color=0D1017&hide_border=true")](https://github.com/alchemist-developer/github-readme-stats)
+</td>
+</tr>
+<tr>
+<td align="center" valign='top' width="50%">
+
+## GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alchemist-developer&theme=react&hide_border=true)](https://git.io/streak-stats)
+
+</td>
+</tr>
+</tbody>
