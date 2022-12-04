@@ -22,11 +22,17 @@
 <a href='https://www.javascript.com/'>
 <img src="https://skillicons.dev/icons?i=js"/>
 </a>
-<a href='https://www.typescriptlang.org/'>
-<img src="https://skillicons.dev/icons?i=ts"/>
+<a href='https://styled-components.com/'>
+<img src="https://skillicons.dev/icons?i=styledcomponents"/>
 </a>
-<a href='https://nodejs.org/en/'>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+<a href='https://tailwindui.com/'>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+</a>
+<a href='https://tailwindui.com/'>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+</a>
+<a href='https://styled-components.com/'>
+<img src="https://skillicons.dev/icons?i=stackoverflow"/>
 </a>
 <a href='https://reactjs.org/'>
 <img src="https://skillicons.dev/icons?i=react"/>
@@ -34,13 +40,9 @@
 <a href='https://vitejs.dev/'>
 <img src="https://skillicons.dev/icons?i=vite"/>
 </a>
-<a href='https://tailwindui.com/'>
-<img src="https://skillicons.dev/icons?i=tailwind"/>
+<a href='https://reactjs.org/'>
+<img src="https://skillicons.dev/icons?i=nextjs"/>
 </a>
-<a href='https://styled-components.com/'>
-<img src="https://skillicons.dev/icons?i=styledcomponents"/>
-</a>
-
   
 </p>
 </th>
@@ -52,17 +54,14 @@
 
 ## Interested in Learning
 
-<a href='https://nextjs.org/'>
-<img src="https://skillicons.dev/icons?i=nextjs"/>
+<a href='https://supabase.com/'>
+<img src="https://skillicons.dev/icons?i=supabase"/>
 </a>
-<a href='https://firebase.google.com/'>
-<img src="https://skillicons.dev/icons?i=firebase"/>
+<a href='https://vuejs.org/'>
+<img src="https://skillicons.dev/icons?i=vuejs"/>
 </a>
-<a href='https://graphql.org/'>
-<img src="https://skillicons.dev/icons?i=graphql"/>
-</a>
-<a href='https://www.figma.com/'>
-<img src="https://skillicons.dev/icons?i=figma"/>
+<a href='https://nuxtjs.org/'>
+<img src="https://skillicons.dev/icons?i=nuxtjs"/>
 </a>
 </td>
 <td rowspan="2" valign='top' align="center" width="50%">
