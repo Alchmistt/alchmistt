@@ -25,14 +25,11 @@
 <a href='https://styled-components.com/'>
 <img src="https://skillicons.dev/icons?i=styledcomponents"/>
 </a>
-<a href='https://tailwindui.com/'>
+<a href='https://getbootstrap.com/'>
 <img src="https://skillicons.dev/icons?i=bootstrap"/>
 </a>
 <a href='https://tailwindui.com/'>
 <img src="https://skillicons.dev/icons?i=tailwind"/>
-</a>
-<a href='https://styled-components.com/'>
-<img src="https://skillicons.dev/icons?i=stackoverflow"/>
 </a>
 <a href='https://reactjs.org/'>
 <img src="https://skillicons.dev/icons?i=react"/>
@@ -40,8 +37,11 @@
 <a href='https://vitejs.dev/'>
 <img src="https://skillicons.dev/icons?i=vite"/>
 </a>
-<a href='https://reactjs.org/'>
+<a href='https://nextjs.org/'>
 <img src="https://skillicons.dev/icons?i=nextjs"/>
+</a>
+<a href='https://pt.stackoverflow.com/'>
+<img src="https://skillicons.dev/icons?i=stackoverflow"/>
 </a>
   
 </p>
