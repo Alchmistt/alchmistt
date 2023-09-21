@@ -34,14 +34,11 @@
 <a href='https://reactjs.org/'>
 <img src="https://skillicons.dev/icons?i=react"/>
 </a>
-<a href='https://vitejs.dev/'>
-<img src="https://skillicons.dev/icons?i=vite"/>
-</a>
 <a href='https://nextjs.org/'>
 <img src="https://skillicons.dev/icons?i=nextjs"/>
 </a>
 <a href='https://pt.stackoverflow.com/'>
-<img src="https://skillicons.dev/icons?i=stackoverflow"/>
+<img src="https://skillicons.dev/icons?i=angular"/>
 </a>
   
 </p>
