@@ -9,7 +9,7 @@
 
 </span>
 
-- 👋 My name is Adryel Simon and I'm a jr front-end developer based in São Paulo, Brazil. 
+- 👋 My name is Adryel Simon and I'm a JR QA based in São Paulo, Brazil. 
 - 📫 Contact me at *[alchdev@outlook.com](mailto:alchdev@outlook.com)* or <a href="https://alchemistdev.vercel.app/about">click here</a>.
 
 <p align='center'>
