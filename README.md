@@ -9,7 +9,7 @@
 
 </span>
 
-- 👋 My name is Adryel Simon and I'm a JR QA based in São Paulo, Brazil. 
+- 👋 My name is Adryel Simon and I'm a Quality assurance (QA) based in São Paulo, Brazil. 
 - 📫 Contact me at *[alchdev@outlook.com](mailto:alchdev@outlook.com)* or <a href="https://alchemistdev.vercel.app/about">click here</a>.
 
 <p align='center'>
@@ -39,6 +39,12 @@
 </a>
 <a href='https://pt.stackoverflow.com/'>
 <img src="https://skillicons.dev/icons?i=angular"/>
+</a>
+<a href='https://pt.stackoverflow.com/'>
+<img src="https://skillicons.dev/icons?i=selenium"/>
+</a>
+<a href='https://pt.stackoverflow.com/'>
+<img src="https://skillicons.dev/icons?i=java"/>
 </a>
   
 </p>
