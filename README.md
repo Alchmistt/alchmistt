@@ -66,6 +66,9 @@
 <a href='https://nuxtjs.org/'>
 <img src="https://skillicons.dev/icons?i=nuxtjs"/>
 </a>
+<a href='https://cypress.io/'>
+<img src="https://skillicons.dev/icons?i=cypress"/>
+</a>
 </td>
 <td rowspan="2" valign='top' align="center" width="50%">
 
